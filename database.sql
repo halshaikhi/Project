@@ -1,6 +1,6 @@
 /*
 SQLyog Ultimate v12.09 (64 bit)
-MySQL - 10.1.21-MariaDB : Database - cosc_project
+MySQL - 10.1.21-MariaDB : Database - project
 *********************************************************************
 */
 
@@ -12,9 +12,9 @@ MySQL - 10.1.21-MariaDB : Database - cosc_project
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-CREATE DATABASE /*!32312 IF NOT EXISTS*/`cosc_project` /*!40100 DEFAULT CHARACTER SET latin1 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/`project` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
-USE `cosc_project`;
+USE `project`;
 
 /*Table structure for table `cities` */
 
