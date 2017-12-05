@@ -1,0 +1,5 @@
+<form action="mailto:you@algomau.com" method="post" enctype="text/plain" >
+FirstName:<input type="text" name="FirstName">
+Email:<input type="text" name="Email">
+<input type="submit" name="submit" value="Submit">
+</form>
